@@ -1,0 +1,92 @@
+table {
+width: 200px;
+height:100px;
+}
+
+textarea
+
+{
+margin: 20px;
+}
+s
+form
+
+{
+margin: 20px;
+}
+
+.image{
+margin: 20px;
+height: 100px;
+width: 100px;
+background: gray;
+border-radius: 9px;
+border-color: black;
+border-style: solid;
+position: absolute;
+}
+
+.round{
+height: 10px;
+width: 10px;
+background: red;
+border-radius: 8px;
+border-color: black; border-style: solid;
+position: absolute;
+margin-top: 5%;
+margin-left: 38%;
+}
+
+.roundleft{
+height: 10px;
+width: 10px;
+background: red;
+border-radius: 8px;
+border-color: black; border-style: solid;
+position: absolute;
+margin-top: 38%;
+margin-left: 5%;
+}
+
+.roundright{
+height: 10px;
+width: 10px;
+background: red;
+border-radius: 8px;
+border-color: black; border-style: solid;
+position: absolute;
+margin-top: 38%;
+margin-left: 70%;
+}
+
+.roundlast{
+height: 10px;
+width: 10px;
+background: red;
+border-radius: 8px;
+border-color: black; border-style: solid;
+position: absolute;
+margin-top: 80%;
+margin-left: 38%;
+margin-buttom: 5%;
+}
+
+.long{
+height: 60px;
+width: 5px;
+background: black;
+position: absolute;
+margin-top: 10%;
+margin-left: 43%;
+
+}
+
+.longlast{
+height: 5px;
+width: 25px;
+background: black;
+position: absolute;
+margin-top: 43%;
+margin-left: 35%;
+
+}
